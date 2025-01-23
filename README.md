@@ -7,7 +7,7 @@ Feel free to explore and enjoy!
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, Spark, R and C 
-- **Tools:** Git, Azure, AWS, Hadoop and Power BI.
+- **Tools:** Git, Azure, Synapse, Power BI, AWS and Hadoop.
 - **Databases:** MySQL, SQL Server and Azure Cognitive Search.
 
 ## 🚀 Projects
