@@ -37,12 +37,12 @@ Feel free to reach out to me.
 Check out this weird thing about the prime number 73939133. If you keep chopping off digits from the end, every number you get is still a prime number!
 
 73939133 is prime  
-7393913 is prime
-739391 is prime
-73939 is prime
-7393 is prime
-739 is prime
-73 is prime
+7393913 is prime  
+739391 is prime  
+73939 is prime  
+7393 is prime  
+739 is prime  
+73 is prime  
 7 is prime
 
 Thank you for visiting my profile!
