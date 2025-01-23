@@ -16,7 +16,7 @@ Feel free to explore and enjoy!
 Here are some of my notable projects:
 
 - **[Large Language Models](https://github.com/VictorFrancheto/Large_Language_Models):** .
-- **[Advanced Math for IA](https://github.com/VictorFrancheto/Advanced_Math_for_IA):**.
+- **[Advanced Math for IA](https://github.com/VictorFrancheto/Advanced_Math_for_IA):** This project contains the demonstration of theorems and the presentation of concepts commonly used in artificial intelligence algorithms. Additionally, we explore the practical application and implementation of these concepts.
 - **[Implementation of Multihead Attention with PyTorch](https://github.com/VictorFrancheto/Multihead_Attention_PyTorch):** In this project, we developed the implementation of the Head Attention layer using PyTorch, explained step-by-step in detail, leading to a practical application of the algorithm.
 
 
