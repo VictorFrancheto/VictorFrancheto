@@ -25,8 +25,8 @@ Here are some of my notable projects:
 
 ## 💬 Let's Connect
 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/victor-hugo-francheto/)
-- **Medium:** (https://medium.com/@victor.h.f.francheto)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/victor-hugo-francheto/)  
+- **Medium:** [Medium Profile](https://medium.com/@victor.h.f.francheto)
 
 ## 📫 How to reach me
 
