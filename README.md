@@ -17,13 +17,13 @@ Feel free to explore and enjoy!
 - Deep Learning and AI techniques
 - Complex Networks
 
-## 🚀 Projects in Progress
+## 🚀 Projects in Progress  
 
-Here are some projects in progress:
+Here are some ongoing projects:  
 
-- Shortest Path Percolation in Randon Networks
-- A guide about Natural Language Processing with Transformers.
-- 
+- An implementation in Python of Shortest Path Percolation in Random Networks.  
+- A guide on Natural Language Processing with Transformers.  
+
 
 ## 💬 Let's Connect
 
