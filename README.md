@@ -21,7 +21,6 @@ Feel free to explore and enjoy!
 
 Here are some ongoing projects:  
 
-- An implementation in Python of Shortest Path Percolation in Random Networks.  
 - A guide on Natural Language Processing with Transformers.  
 
 
