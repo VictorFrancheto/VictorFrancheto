@@ -11,9 +11,6 @@ Feel free to explore and enjoy!
 - **Tools:** Git, Azure, Synapse, Power BI, AWS and Hadoop.
 - **Databases:** MySQL, SQL Server and Azure Cognitive Search.
 
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
