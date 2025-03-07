@@ -21,7 +21,8 @@ Feel free to explore and enjoy!
 
 Here are some ongoing projects:  
 
-- A guide on Natural Language Processing with Transformers.  
+- A guide on Natural Language Processing with Transformers.
+- Targeted Attack on Quantum Complex Networks.
 
 
 ## 💬 Let's Connect
