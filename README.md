@@ -1,6 +1,6 @@
 # Hi there, I'm Victor 👋
 
-Welcome to my GitHub profile! I am passionate about challenges involving advanced mathematics and algorithms. Currently, I work as a data scientist focusing on artificial intelligence projects. Here, you'll find content ranging from demonstrations of mathematical theorems applied to artificial intelligence to the implementation and use of AI algorithms. Additionally, I also work on topics related to complex networks.
+Welcome to my GitHub profile! I am passionate about challenges involving advanced mathematics and algorithms. Currently, I work as a data scientist focusing on artificial intelligence projects. Here, you'll find content ranging from demonstrations of mathematical theorems applied to artificial intelligence to the implementation and use of AI algorithms. Additionally, I also work on topics related to complex networks. 
 
 
 Feel free to explore and enjoy!
