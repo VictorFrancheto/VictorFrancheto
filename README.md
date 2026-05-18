@@ -53,4 +53,21 @@ Check out this weird thing about the prime number 73939133. If you keep chopping
 
 Thank you for visiting my profile!
 
+
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" width="25"> **ACTIVITY HISTORY**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HelloWounderworld/HelloWounderworld/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+> **SYSTEM MESSAGE:**  
+> *"No cruzamento entre teoremas e algoritmos, construo realidades paralelas. Um dia, os otakus governarão o código-fonte do universo."*  
+
+<!-- 
+  █▄█ █▀█ █░█   █▀▀ █▀█ █▀▄▀█ █▀▀ ▀█▀ █░█ █▀█ █▀▀
+  ░█░ █▄█ █▄█   ██▄ █▀▄ █░▀░█ ██▄ ░█░ █▀█ █▄█ █▄▄
+-->
+
 ---
