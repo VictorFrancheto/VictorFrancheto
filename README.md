@@ -62,12 +62,3 @@ Thank you for visiting my profile!
 
 ---
 
-> **SYSTEM MESSAGE:**  
-> *"No cruzamento entre teoremas e algoritmos, construo realidades paralelas. Um dia, os otakus governarão o código-fonte do universo."*  
-
-<!-- 
-  █▄█ █▀█ █░█   █▀▀ █▀█ █▀▄▀█ █▀▀ ▀█▀ █░█ █▀█ █▀▀
-  ░█░ █▄█ █▄█   ██▄ █▀▄ █░▀░█ ██▄ ░█░ █▀█ █▄█ █▄▄
--->
-
----
