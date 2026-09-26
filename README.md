@@ -28,8 +28,8 @@ Here are some ongoing projects:
 <div> 
   <a href="https://www.linkedin.com/in/victor-hugo-francheto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@victor.h.f.francheto" target="_blank"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  <a href="https://scholar.google.com/citations?user=ndA-cAsAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/-Google%20Scholar-%234285F4?style=for-the-badge&logo=googlescholar&logoColor=white" target="_blank"></a>
 </div>
-
 
 
 ## 📫 How to reach me
