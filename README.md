@@ -21,9 +21,7 @@ Feel free to explore and enjoy!
 
 Here are some ongoing projects:  
 
-- A guide on Natural Language Processing with Transformers.
-- Targeted Attack on Quantum Complex Networks.
-
+- Shortest-path percolation and structural robustness of quantum internet networks.
 
 ## 💬 Let's Connect
 
