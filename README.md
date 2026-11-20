@@ -21,7 +21,7 @@ Feel free to explore and enjoy!
 
 Here are some ongoing projects:  
 
-- Shortest-path percolation and structural robustness of quantum internet networks.
+- [Shortest-path percolation and structural robustness of quantum internet networks](https://arxiv.org/pdf/2611.21855)
 
 ## 💬 Let's Connect
 
